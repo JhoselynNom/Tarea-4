@@ -1,0 +1,60 @@
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+    .parisienne-regular {
+      font-family: "Parisienne", cursive;
+      font-weight: 400;
+      font-style: normal;
+    }
+    .tac-one-regular {
+      font-family: "Tac One", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+    
+  .container
+  {
+      background-color: aqua;
+      
+      height: 100px;
+  }
+  
+  /*.container-fluid
+  {
+     /* background-color: coral;
+     
+      height: 100px;
+  }*/
+  .row
+  {
+      background-color: rgb(224, 70, 134);
+      margin: 5px;
+  }
+  .col{
+      background-color: plum;
+      margin: 5px;
+  }
+  footer {
+    background-color: rgb(224, 70, 134);
+    color:black;
+    padding: 12px;
+    text-align: center;
+  }
+  
